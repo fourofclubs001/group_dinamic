@@ -1,0 +1,12 @@
+n_events n_groups n_turns
+first_turn_event_1 second_turn_event_1 ... last_turn_event_1
+first_turn_event_2 second_turn_event_2 ... last_turn_event_2
+...
+first_turn_event_n_events second_turn_event_n_events ... last_turn_event_n_events
+first_turn_group_1 second_turn_group_1 ... last_turn_group_1
+first_event_preference_group_1 second_event_preference_group_1 ... last_event_preference_group_1
+first_turn_group_2 second_turn_group_2 ... last_turn_group_2
+first_event_preference_group_2 second_event_preference_group_2 ... last_event_preference_group_2
+...
+first_turn_group_n_groups second_turn_group_n_groups ... last_turn_group_n_groups
+first_event_preference_group_n_groups second_event_preference_group_n_groups ... last_event_preference_group_n_groups
